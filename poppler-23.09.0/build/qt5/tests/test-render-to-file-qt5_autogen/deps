@@ -1,4 +1,0 @@
-test-render-to-file-qt5_autogen/timestamp: \
-	/home/runner/FAQ-Langchain/poppler-23.09.0/qt5/tests/CMakeLists.txt \
-	/home/runner/FAQ-Langchain/poppler-23.09.0/qt5/tests/test-render-to-file.cpp \
-	/nix/store/q1nssraba326p2kp6627hldd2bhg254c-cmake-3.29.2/bin/cmake

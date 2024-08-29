@@ -7,26 +7,17 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "3.10.14"
-langchain = "^0.2.13"
 python-dotenv = "1.0.0"
-bs4 = "0.0.1"
 openai = "^1.40.0"
-chromadb = "0.4.21"
-langchainhub = "0.1.14"
-langserve = "0.0.37"
 sse-starlette = "1.8.2"
 pydantic = "1.10.13"
-faiss-cpu = "1.7.4"
 uvicorn = "0.25.0"
-tiktoken = "^0.7"
-beautifulsoup4 = "4.12.2"
 fastapi = "0.108.0"
 libmagic = "^1.0"
 unstructured = {extras = ["pdf"], version = "^0.15.1"}
-langchain-community = "^0.2.12"
-langchain-core = "^0.2.33"
-langchain-openai = "^0.1.22"
-
+transformers = "^4.31.0"
+datasets = "^2.14.4"
+torch = "^2.0.1"
 
 [build-system]
 requires = ["poetry-core"]
