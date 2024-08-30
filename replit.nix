@@ -16,5 +16,6 @@
     pkgs.qt5.qttools
     pkgs.boost
     pkgs.gpgme
+    pkgs.ffmpeg
   ];
 }
